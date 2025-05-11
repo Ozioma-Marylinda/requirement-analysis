@@ -33,3 +33,13 @@
 * **Requirement Validation:**
   Reviewing the documented requirements with stakeholders, defining acceptance criteria, and ensuring all requirements are traceable and testable.
 
+## Types of Requirements.
+
+### Functional Requirements 
+**Definition:** Describe what the system should do.  
+**Examples:** User authentication, property search, booking system, user registration.
+
+### Non-functional Requirements 
+**Definition:** Describe how the system should perform.  
+**Examples:** Performance, security, scalability, usability, reliability.
+
