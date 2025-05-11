@@ -18,7 +18,7 @@
 
 ## Key Activities in Requirement Analysis.
 
- **Requirement Gathering:**
+* **Requirement Gathering:**
   Collecting information from stakeholders through interviews, surveys, observation, and reviewing existing systems to understand their needs.
 
 * **Requirement Elicitation:**
