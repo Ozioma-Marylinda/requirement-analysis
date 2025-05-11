@@ -52,3 +52,19 @@
 * **Provide a clear visual representation of system functionalities.**
 * ** Help in identifying and organizing system requirements.**
 * ** Facilitate communication among stakeholders and development team.**
+
+## Acceptance Criteria.
+
+## Importance of Acceptance Criteria in Requirement Analysis
+
+Acceptance criteria are essential in requirement analysis because they:
+
+- Ensure **all stakeholders have a shared understanding** of the system's functionalities.
+- Provide a **concrete basis for testing and validation**, reducing ambiguity.
+- Help in **maintaining system quality** and ensuring features meet **user expectations**.
+
+### Example – Checkout Feature (Booking Management System)
+
+**Acceptance Criteria:**
+
+- Users must be able to **review selected property details** before proceeding to payment.
