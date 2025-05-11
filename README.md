@@ -15,3 +15,21 @@
 3. Basis for Design and Development: Provides a solid foundation for designing and developing the system.
 4. Cost and Time Estimation: Facilitates accurate estimation of project cost, resources, and time.
 5. Quality Assurance: Ensures that the final product meets the specified requirements, leading to higher customer satisfaction.
+
+## Key Activities in Requirement Analysis.
+
+* **Requirement Gathering:**
+  Collecting information from stakeholders through interviews, surveys, observation, and reviewing existing systems to understand their needs.
+
+* **Requirement Elicitation:**
+  Using brainstorming, focus groups, and prototypes to engage stakeholders and draw out detailed and hidden requirements.
+
+* **Requirement Documentation:**
+  Clearly recording all gathered requirements in formats like specification documents, user stories, and use case diagrams.
+
+* **Requirement Analysis and Modeling:**
+  Analyzing requirements for feasibility, prioritizing them, and using visual models to represent how the system should behave.
+
+* **Requirement Validation:**
+  Reviewing the documented requirements with stakeholders, defining acceptance criteria, and ensuring all requirements are traceable and testable.
+
