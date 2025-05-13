@@ -53,7 +53,8 @@
 * ** Help in identifying and organizing system requirements.**
 * ** Facilitate communication among stakeholders and development team.**
 
-![alx-booking-uc.png](https://github.com/user-attachments/assets/add70fa9-f3d9-4332-adf9-b45d435f7aa2)
+
+![alx-booking-uc](https://github.com/user-attachments/assets/3d97b63f-4909-474a-92de-74aedc5c3df0)
 
 ## Acceptance Criteria.
 
