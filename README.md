@@ -53,6 +53,8 @@
 * ** Help in identifying and organizing system requirements.**
 * ** Facilitate communication among stakeholders and development team.**
 
+![alx-booking-uc png](https://github.com/user-attachments/assets/add70fa9-f3d9-4332-adf9-b45d435f7aa2)
+
 ## Acceptance Criteria.
 
 ## Importance of Acceptance Criteria in Requirement Analysis
